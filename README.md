@@ -5,7 +5,11 @@ Service Performance Insights
 https://app.powerbi.com/view?r=eyJrIjoiMGFhZDc3NTMtNzRjNS00MmVlLTkzMmEtNjFiMjg0YzY1MDFhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 🔍Project Description:
-AtliQ Mart, an FMCG manufacturer in Gujarat, India, plans to expand to new cities. To address service issues, they've tasked Peter Pandey, a Data Analyst, with building a dashboard to monitor 'On-time Delivery', 'In-full Delivery', and 'OnTime in Full' metrics for customers daily. This will enable swift issue resolution and enhance customer satisfaction, critical for expansion success not only for retaining existing customers but also for attracting new ones 
+AtliQ Mart, a thriving FMCG manufacturer based in Gujarat, India, is gearing up for expansion into other major cities within the next two years. To ensure a successful expansion, the company is determined to address a critical issue: service lapses that have led to the non-renewal of annual contracts by some key customers. These issues primarily revolve around untimely or incomplete product deliveries, resulting in subpar customer service.
+The task is building a comprehensive dashboard that tracks key service metrics on a daily basis. The metrics include 'On-time Delivery (OT) %', 'In-full Delivery (IF) %', and 'OnTime in Full (OTIF) %' for each customer, comparing actual performance to the target service levels set for each customer.
+This dashboard will enable the management team to monitor and respond swiftly to service issues, ensuring customer satisfaction and loyalty. Beyond the metrics, additional insights can also be extracted from the data that can help optimize AtliQ Mart's supply chain and service delivery operations and to enhance the company's customer service 
+
+
 
 🔍Project Scope:
 Metric Development: Create key service metrics.
@@ -32,3 +36,4 @@ Competitive Edge: Stand out in the FMCG market with superior service quality.
 Operational Efficiency: Improve processes and reduce costs.
 
 Customer Insights: Tailor services to individual customer preferences.
+
